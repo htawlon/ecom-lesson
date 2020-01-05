@@ -32,7 +32,8 @@ class HomeController extends Controller
         if(Auth::User()->hasAnyRole(['Member'])){
             $orders=Order::where('user_id',Auth::id())->get();
             return view('home')->with(['orders'=>$orders]);
-        }elseif(Auth::User()->hasAnyRole(['Admin'])){
+        }
+        elseif(Auth::User()->hasAnyRole(['Admin'])){
             $orders=Order::get();
             $posts=Post::get();
             $cats=Category::get();

@@ -6,8 +6,7 @@
     @if(Auth::User()->hasAnyRole(['Admin']))
         <div class="container">
             <div class="row">
-                <div class="col-sm-2"><i class="fas fa-tachometer-alt"></i> Dashboard</div>
-                <div class="dropdown-divider"></div>
+
                 <div class="col-sm-8 mb-4">
                     <div class="card shadow bg-primary">
                         <div class="card-body">
@@ -31,13 +30,13 @@
                     </div>
                 </div>
                 <div class="col-sm-4 mb-4">
-                    <div class="card shadow bg-primary">
+                    <div class="card shadow bg-success">
                         <div class="card-body">
-                            <span class="text-white"><i class="fas fa-clipboard-list"></i> Category</span>
+                            <span class="text-white"><i class="fas fa-cart-arrow-down" style="color: honeydew"></i>Order</span>
                             <span class="float-right btn btn-outline-warning rounded-circle">{{count($orders)}}</span>
                         </div>
                         <div class="card-footer">
-                            <a class="btn btn-block btn-text-white" href="#"> More >></a>
+                            <a class="btn btn-block btn-text-white" href="{{route('posts.orders')}}"> More >></a>
                         </div>
                     </div>
                 </div>

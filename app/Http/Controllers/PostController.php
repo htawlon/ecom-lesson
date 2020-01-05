@@ -101,7 +101,8 @@ class PostController extends Controller
         $c=Category::whereId($id)->firstOrFail();//first();
         $c->delete();
         return redirect()->back()->with('info','The selected category have been deleted.');
-    }public function getImage($file_name){
+    }
+    public function getImage($file_name){
         $file=Storage::disk('posts')->get($file_name);
         return response($file)->header('Content-type',"*.*");
     }

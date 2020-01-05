@@ -46,7 +46,7 @@
         <div class="card-header" id="headingThree">
             <h2 class="mb-0">
                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                    <i class="fas fa-use-cogs"></i> Posts <i class="fas fa-caret-down"></i>
+                    <i class="fas fa-user-edit" style="color:crimson"></i> Assigning Role <i class="fas fa-caret-down"></i>
                 </button>
             </h2>
         </div>

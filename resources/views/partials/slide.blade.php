@@ -6,13 +6,13 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="{{url('slide/image2.jpeg')}}" class="d-block w-100" alt="..." style="height: 300px">
+            <img src="{{url('slide/image1.jpg')}}" class="d-block w-100" alt="..." style="height: 300px">
         </div>
         <div class="carousel-item">
-            <img src="{{url('slide/images.jpeg')}}" class="d-block w-100" alt="..." style="height: 300px">
+            <img src="{{url('slide/images2.jpg')}}" class="d-block w-100" alt="..." style="height: 300px">
         </div>
         <div class="carousel-item">
-            <img src="{{url('slide/index.jpeg')}}" class="d-block w-100" alt="..." style="height: 300px">
+            <img src="{{url('slide/images2.jpg')}}" class="d-block w-100" alt="..." style="height: 300px">
         </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
