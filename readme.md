@@ -10,7 +10,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/image1.png?alt=media&token=9023c1e3-667e-452e-8da7-9469546ef3f5"/>
 <p align="center">For log in to page email:"minthitswe997@gmail.com" <br> password:"12345678"</P>
 <p> Adding product page</p>
-<img src="https://console.firebase.google.com/u/0/project/firstproject-b9c4b/storage/firstproject-b9c4b.appspot.com/files"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/posts.png?alt=media&token=38080d85-6826-4817-ba83-b8a020e784d1"/>
 
 ## About Laravel
 
