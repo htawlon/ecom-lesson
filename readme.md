@@ -1,17 +1,12 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 <p align="center">The first appear webpage</p>
 <img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/image1.png?alt=media&token=9023c1e3-667e-452e-8da7-9469546ef3f5"/>
 <p align="center">For log in to page email:"minthitswe997@gmail.com" <br> password:"12345678"</P>
 <div class="dropdown-driver"></div>
 <p align="center"> Adding product page</p>
 <img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/posts.png?alt=media&token=38080d85-6826-4817-ba83-b8a020e784d1"/>
+<p align="center"> Order page</p>
+<img src="https://firebasestorage.googleapis.com/v0/b/firstproject-b9c4b.appspot.com/o/orders.png?alt=media&token=c36056d9-9cc6-4b43-9d73-5e1aad114fea"/>
 
 ## About Laravel
 
